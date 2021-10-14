@@ -26,6 +26,10 @@ public class Share {
     @JoinColumn(name = "member_id")
     private Member member;
 
+    @OneToOne(cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    @JoinColumn(name="image_id")
+    private Image image;
+
     // Auditing
     @CreatedDate
     @Column(updatable = false)

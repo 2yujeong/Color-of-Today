@@ -9,11 +9,13 @@ import javax.persistence.Embeddable;
 public class Color {
     private String colorid;
     private String colorname;
+    private String colornumber;
 
     protected Color() {}
 
-    public Color(String id, String name) {
+    public Color(String id, String name, String num) {
         colorid = id;
         colorname = name;
+        colornumber = num;
     }
 }

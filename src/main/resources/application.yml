@@ -10,5 +10,11 @@ spring:
     properties:
       hibernate:
         format_sql: true
+  servlet:
+    multipart:
+      max-file-size: 1MB
+      max-request-size: 3MB
 logging.level:
   org.hibernate.SQL: debug
+file.dir:
+  C:/Users/yjffl/Desktop/Spring_study/color_images/
