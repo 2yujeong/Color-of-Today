@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/last-commit/2yujeong/Color-of-Today?color=violet&style=plastic"/>
+<img src="https://img.shields.io/github/last-commit/2yujeong/Color-of-Today/develop?color=violet&style=plastic"/>
 
 # Color-of-Today <br> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=black"/> <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat-square&logo=SpringBoot&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>
 #### 2021 하반기 팀 Dyeom Dyum 토이 프로젝트 | 2021.09 ~ 2021.10 (예정) 
